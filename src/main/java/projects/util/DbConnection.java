@@ -1,4 +1,4 @@
-package projects.dao;
+package projects.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,6 +6,7 @@ import java.sql.SQLException;
 import projects.exception.DbException;
 
 public class DbConnection {
+
     private static final String SCHEMA = "projects";
     private static final String USER = "projects";
     private static final String PASSWORD = "projects";
@@ -31,3 +32,4 @@ public class DbConnection {
         }
     }
 }
+

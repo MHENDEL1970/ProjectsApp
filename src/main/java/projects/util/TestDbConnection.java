@@ -1,4 +1,4 @@
-package projects.dao;
+package projects.util;
 
 public class TestDbConnection {
     public static void main(String[] args) {

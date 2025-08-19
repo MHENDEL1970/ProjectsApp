@@ -1,0 +1,12 @@
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\DaoBase.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\ProjectsApp.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\dao\DbConnection.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\dao\ProjectDao.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\dao\TestDbConnection.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\entity\Category.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\entity\Material.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\entity\package-info.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\entity\Project.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\entity\Step.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\exception\DbException.java 
+C:\Users\MarkH\eclipse-workspace\ProjectsApp\src\main\java\projects\service\ProjectService.java 
